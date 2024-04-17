@@ -1,2 +1,2 @@
 # python_projects
-Introdução de faculdade em python
+Primeiros passos em python em Sala de Aula.
